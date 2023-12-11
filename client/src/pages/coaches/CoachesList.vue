@@ -1,3 +1,3 @@
 <template>
-  <div>coach llist</div>
+  <div></div>
 </template>
