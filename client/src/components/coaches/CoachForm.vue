@@ -26,10 +26,6 @@
           <input type="checkbox" id="backend" value="backend" v-model="areas" />
           <label for="backend">Backend Development</label>
         </div>
-        <div>
-          <input type="checkbox" id="career" value="career" v-model="areas" />
-          <label for="career">Career Advisory</label>
-        </div>
       </div>
       <base-button>Register</base-button>
     </form>
