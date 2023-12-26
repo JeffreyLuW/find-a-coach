@@ -4,8 +4,7 @@ export default {
           id: context.rootGetters.userId,
           firstName: data.first,
           lastName: data.last,
-          description: data.desc,
-          hourlyRate: data.rate,
+          description: data.description,
           areas: data.areas
         };
     
